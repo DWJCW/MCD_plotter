@@ -59,7 +59,7 @@ The main script is `land_cover.py`, which contains the `LandCoverPlotter` class.
 [Natural Earth Vector Data](https://github.com/nvkelso/natural-earth-vector)
 
 ## Sample Data
-This repository contains sample data (`MCD12Q1.A2022001.*`) and a shape files (`ne_10m_populated_places`). Existing shape files is good to go. For full MCD datasets, users should download them from the official sources above.
+This repository contains sample data (`MCD12Q1.A2022001.*`) and shape files (`ne_10m_populated_places`). Existing shape files is good to go. For full MCD datasets, users should download them from the official sources above.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
