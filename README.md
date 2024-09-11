@@ -6,6 +6,8 @@
 
 This project is intended for users who want to explore and visualize land cover data based on the IGBP classification. A demonstration notebook is also provided to showcase how the script can be used with sample data.
 
+While it's possible to use Google Earth's API to access MCD land cover data for visualization, this can sometimes be unreliable for large-scale operations, especially when generating a large number of images or when network access to Google services is unstable. In such cases, this repository provides an alternative solution. You can download the MCD land cover data in advance and use the provided scripts to generate maps without relying on external services. This allows for flexible and efficient visualization, particularly when dealing with large datasets.
+
 ![](img/merc.png)
 
 ## Features
